@@ -1,4 +1,4 @@
-## Medical_Image_Classifier
+## Scientific_Image_Classifier
 
 ## Project Intro/Objective
 The purpose of this project is to classify scientific images into specific categories: MICROSCOPY, MACROSCOPY, FACS and BG. This deep learning model can assist in automating the organization and analysis of large datasets of medical images, potentially streamlining research and diagnostic processes. The model aims to achieve high accuracy and efficiency in medical diagnosis support through advanced image classification techniques.
